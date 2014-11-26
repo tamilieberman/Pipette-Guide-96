@@ -19,4 +19,8 @@ Tips:
 ------------------------------------------------------------
 -For easy finding of wells, draw 3 lines on your 96 well plate, as shown in red on the pipette guide. (Between rows D&E, columns 4&5, and columns 8&9) <br>
 -A shared dropbox between your PC and tablet will allow you to easily open index.html on your tablet. <br>
--As of November 2014, there are tablets available online for less than $50
+-As of November 2014, there are tablets available online for less than $50 
+
+Example output
+------------------------------------------------------------
+http://poolfast.tumblr.com/
