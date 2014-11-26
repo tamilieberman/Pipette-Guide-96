@@ -11,9 +11,10 @@ Created by Tami Lieberman, 2014
 
 To run:
 ------------------------------------------------------------
-1) Paste desired volumes into volumes.csv <br>
-2) Double click on generate.sh <br>
-3) Open the updated index.html on your tablet/phone and get pipetting. <br>
+1) Download the repository folder via the button on the bottom right and unzip <br> 
+2) Paste desired volumes into volumes.csv <br>
+3) Double click on generate.sh <br>
+4) Open the updated index.html on your tablet/phone and get pipetting. <br>
 
 Tips:
 ------------------------------------------------------------
