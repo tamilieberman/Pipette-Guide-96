@@ -8,7 +8,8 @@ Here is a way to do it with minimal adjusting of your pipette. Start with higher
 Open a custom html file in your tablet, transfer the highest-volume remaining (highlighted for you), and click to find the next highest well.
 
 Created by Tami Lieberman, 2014
-================================================================================
+------------------------------------------------------------
+
 
 To run:
 1) Paste desired volumes into volumes.csv
