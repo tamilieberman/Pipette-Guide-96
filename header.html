@@ -1,0 +1,86 @@
+function register(well) {
+
+	row=Math.floor(well/12)
+	column=well-(row*12)
+	newregister=(13*(row+1))+column+1;
+}
+
+
+function changeBGC(well) {
+    var x = document.getElementById("mytable").getElementsByTagName("td");   
+	register(well)
+	x[newregister].style.backgroundColor ="black"; 
+	
+	var idx=wellorder.indexOf(well);
+	wellorder.splice(idx, 1)
+	register(wellorder[0])
+	x[newregister].style.backgroundColor ="yellow"; 
+  
+}
+
+
+
+//-->
+
+</script>
+
+
+
+<html lang="en">
+  <head>    
+    
+</head>
+    <style>
+    div
+    {
+    text-align: center; 
+    text-indent: 0px; 
+    padding: 0px 0px 0px 0px; 
+    margin: 0px 0px 0px 0px;
+    font-size: x-large;
+    vertical-align:top;
+    }
+    td.td
+    {
+                 border-width : 1px; 
+                 text-align:center;
+				vertical-align:top;
+
+    }
+    
+	td.border-side {
+		text-align:center;
+		border-left: solid 8px red;
+		vertical-align:top;
+	}
+	td.border-bottom {
+	  	text-align:center;
+  		border-bottom : solid 8px red;
+  		vertical-align:top;
+
+	}
+	td.column-label {
+	  	text-align:center;
+  		border-bottom : solid 8px red;
+  		vertical-align:top;
+  		font-size: x-large;
+
+	}
+	td.row-label {
+	  	text-align:center;
+  		border-right : solid 8px red;
+  		vertical-align:top;
+  		font-size: x-large;
+
+	}
+    td.border-both {
+	  	text-align:center;
+  		border-bottom : solid 8px red;
+ 		border-left: solid 8px red;
+ 		vertical-align:top;
+
+	}
+    </style>  
+  <body>
+  <div>  
+    <table id = "mytable" width="100%" border="1" cellpadding="1" cellspacing="2" style="background-color: #FFFFFF;text-align:center;font-size: xx-large;">
