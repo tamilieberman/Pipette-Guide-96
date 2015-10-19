@@ -1,2 +1,2 @@
-cd ~/Dropbox/Pipette_Guide
+cd ~/Dropbox/Pipette_Guide-96
 python makehtml.py 
