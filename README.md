@@ -26,6 +26,6 @@ Tips:
 
 Example output
 ------------------------------------------------------------
-http://poolfast.tumblr.com/
+http:///tamilieberman.github.io/PipetteGuide-example.html
 
 Suggestions for improvements welcome!! 
