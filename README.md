@@ -26,6 +26,6 @@ Tips:
 
 Example output
 ------------------------------------------------------------
-http:///tamilieberman.github.io/PipetteGuide-example.html
+http://tamilieberman.github.io/PipetteGuide-example.html
 
 Suggestions for improvements welcome!! 
