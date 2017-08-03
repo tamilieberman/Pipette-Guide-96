@@ -21,7 +21,7 @@ Tips:
 -For easy finding of wells, draw 3 lines on your 96 well plate, as shown in red on the pipette guide. (Between rows D&E, columns 4&5, and columns 8&9) <br>
 -A shared dropbox between your PC and tablet will allow you to easily open index.html on your tablet. <br>
 -Feel free to rename index.html, so that you can have one html file per plate. <br>
--You may need to change the first line of generate.sh to point to this directory. Alternatively, open up a terminal, navigate to the directory, and exectue "python makehtml.py". <br>
+-If running on a Mac or Linux machine you can make this slightly faster by double-clicking on generate.sh in step 3. You may need to change the first line of generate.sh to point to the correct directory. <br>
 -As of May 2016, there are suitable tablets available online for ~$60 (e.g. bestbuy.com, newegg.com)
 
 Example output
