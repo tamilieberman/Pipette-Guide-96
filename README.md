@@ -13,8 +13,8 @@ To run:
 ------------------------------------------------------------
 1) Download the repository folder via the button on the right and unzip. Move it to your Dropbox folder (~/Dropbox/Pipette-Guide-96) <br> 
 2) Paste desired volumes into volumes.csv <br>
-3) Double click on generate.sh <br>
-4) Open the updated index.html on your tablet/phone and get pipetting. <br>
+3) Run "python makehtml.py" in the repository folder <br>
+4) Open the updated index.html on your tablet/phone and get pipetting <br>
 
 Tips:
 ------------------------------------------------------------
