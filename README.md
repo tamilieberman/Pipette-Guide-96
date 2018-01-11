@@ -5,13 +5,13 @@ Making you hate normalization from 96-well plates less.
 
 Have to add or take different volumes to/from each well of a 96 well plate?
 This will let you do it in less than 15 minutes. <br>
-Generate an html file, open it on a tablet, transfer the highest-volume remaining (highlighted in yellow), and click to find the next high-volume well. <br>
+Use this script to generate an html file from a csv and open the html file on a tablet. The start transfering to/from the highest-volume well (highlighted in yellow) and click to find the next-highest volume well. <br>
 
 Created by Tami Lieberman, 2014.
 
 To run:
 ------------------------------------------------------------
-1) Download the repository folder via the button on the right and unzip. Move it to your Dropbox folder (~/Dropbox/Pipette-Guide-96) <br> 
+1) Download the repository folder via the button on the right and unzip. Move it to your Dropbox folder (e.g. ~/Dropbox/Pipette-Guide-96) <br> 
 2) Paste desired volumes into volumes.csv <br>
 3) Run "python makehtml.py" in the repository folder <br>
 4) Open the updated index.html on your tablet/phone and get pipetting <br>
