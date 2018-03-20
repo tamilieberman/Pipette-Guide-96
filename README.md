@@ -5,7 +5,7 @@ Making you hate normalization from 96-well plates less.
 
 Have to add or take different volumes to/from each well of a 96 well plate?
 This will let you do it in less than 15 minutes. <br>
-Use this script to generate an html file from a csv and open the html file on a tablet. The start transfering to/from the highest-volume well (highlighted in yellow) and click to find the next-highest volume well. <br>
+Use this script to generate an html file from a csv and open the html file on a tablet. Then start transfering to/from the highest-volume well (highlighted in yellow) and click to find the next-highest volume well. <br>
 
 Created by Tami Lieberman, 2014.
 
