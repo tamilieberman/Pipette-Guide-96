@@ -4,8 +4,8 @@ Making you hate normalization from 96-well plates less.
 ------------------------------------------------------------
 
 Have to add or take different volumes to/from each well of a 96 well plate?
-This will let you do it in less than 15 minutes. <br>
-Use this script to generate an html file from a csv and open the html file on a tablet. Then start transfering to/from the highest-volume well (highlighted in yellow) and click to find the next-highest volume well. <br>
+This will let you do it in less than 15 minutes. <br> <br>
+Use this script to generate an html file from a csv and open the html file on a tablet. Then start transfering to/from the highest-volume well (highlighted in yellow) and click to find the next-highest volume well. <br> <br> Use this script variable amounts of water/buffer to a plate, then uniform volumes of sample using a multichannel (or 96-channel) pipette. Voila, you've now got 96 normalized wells.  <br>
 
 Created by Tami Lieberman, 2014.
 
@@ -22,9 +22,9 @@ For easy finding of wells, draw 3 lines on your 96 well plate, as shown in red o
 
 A shared dropbox between your PC and tablet will allow you to easily open index.html on your tablet. <br>
 
-Feel free to rename index.html, so that you can have one html file per plate. <br>
+Rename index.html, so that you can have one html file per plate. <br>
 
-If running on a Mac or Linux machine you can make this slightly faster by double-clicking on generate.sh in step 3. You may need to change the first line of generate.sh to point to the correct directory. <br>
+If running on a Mac or Linux machine you can make this slightly faster by double-clicking on generate.sh in step 3. You will need to change the first line of generate.sh to point to the correct directory. <br>
 
 As of May 2016, there are suitable tablets available online for ~$60 (e.g. bestbuy.com, newegg.com)
 
